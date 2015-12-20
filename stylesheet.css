@@ -23,3 +23,16 @@ a:active {
 	text-decoration: underline;
 	color: #0000EE;
 }
+
+.bordered {
+	background-color: white;
+	border: 2px solid black
+}
+
+.default-hidden {
+	display: none;
+}
+
+#viewongh:hover + #viewongh-desc {
+	display: initial;
+}
