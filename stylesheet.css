@@ -32,7 +32,3 @@ a:active {
 .default-hidden {
 	display: none;
 }
-
-#viewongh:hover + #viewongh-desc {
-	display: initial;
-}
